@@ -99,10 +99,10 @@ input:focus {
 }
 
 .controls {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .modal {
@@ -114,6 +114,29 @@ input:focus {
   width: 100%;
   height: 100%;
   overflow: auto;
+}
+
+#delControls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+#delUrl {
+  width: 95%;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+
+#delLink {
+  margin-top: 50px;
+  margin-bottom: 0px;  
+}
+
+#delete {
+  margin-top: 10px;
 }
 
 .modal-content {
@@ -141,6 +164,7 @@ input:focus {
 }
 
 #aboutLink {
-margin-top: 250px;
+margin-top: 200px;
 margin-bottom: 30px;
 }
+
