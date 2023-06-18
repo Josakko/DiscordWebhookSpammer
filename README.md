@@ -3,7 +3,7 @@ Website for spamming discord webhooks
 
 ## Usage
 
-Visit the website [here](https://r3nm4rs12.github.io/DiscordWebhookSpammerWebsite).
+Visit the website [here](). https://r3nm4rs12.github.io/DiscordWebhookSpammerWebsite
 
 Image down below is outdated, to see actual look of the website vist it!
 
